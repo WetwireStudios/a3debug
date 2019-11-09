@@ -1,4 +1,4 @@
-# arma3-debug-commands
+# Useful basic scripts for Arma 3
 ## Object spawning
 
 ### Delete Object.
