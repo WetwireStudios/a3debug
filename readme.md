@@ -223,7 +223,6 @@ if (isNil "B0X_CANN0N_T0GGLE") then { B0X_CANN0N_T0GGLE = 0; }; if (B0X_CANN0N_T
 // Shoots players around you out of your gun.
 if (isNil "PL4YER_CANN0N_T0GGLE") then { PL4YER_CANN0N_T0GGLE = 0; }; if (PL4YER_CANN0N_T0GGLE == 0) then { PL4YER_CANN0N_T0GGLE = 1; ["TaskSucceeded", ["", "Player Cannon Activated"]] call BIS_fnc_showNotification; hint parseText "<t color='#FFFFFF' font='TahomaB' size='1' align='center'>Credits to Jme</t><br/>"; player addEventHandler ["Fired", { _null = _this spawn { _missile = _this select 6; _unit = allUnits select floor(random count allUnits); waitUntil { if !(name _unit == name player) then { _unit attachto [_missile,[0,0,0]]; _unit allowDamage false; }; }; }; }]; } else { PL4YER_CANN0N_T0GGLE = 0; ["TaskFailed", ["", "Player Cannon Removed"]] call BIS_fnc_showNotification; player removeEventHandler ["Fired", 0] };
 ```
-```
 ### SUPER EVIL COMMAND !!
 ```sqf
 // Freeze players game
