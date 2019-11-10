@@ -1,3 +1,4 @@
+[Home](readme.md)
 Debug Console:
 https://community.bistudio.com/wiki/Mission_Editor:_Debug_Console_(Arma_3)
 
