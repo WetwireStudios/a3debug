@@ -1,3 +1,4 @@
+[Home](readme.md)
 ## This script adds a menu in ESC for everyone, allowing limited customization.
 ### Created by J [WoLF]
 ```sqf
