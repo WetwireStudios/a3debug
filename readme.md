@@ -1,36 +1,36 @@
 # Wiki
-[Home](https://github.com/endigma-4426/a3debug/wiki)
+[Home](readme.md)
 
-[Links](https://github.com/endigma-4426/a3debug/wiki/Links)
+[Links](links.md)
 
-[Credits](https://github.com/endigma-4426/a3debug/wiki/Credits)
+[Credits](credits.md)
 
-[Other Resources](https://github.com/endigma-4426/a3debug/wiki/Other-Resources)
+[Other Resources](Other-Resources.md)
 
 
 ## Utility
 
 [Basic Scripts](Basic-Scripts.md)
 
-[Arma 3 Zeus Menu](https://github.com/endigma-4426/a3debug/wiki/Arma-3-Zeus-Menu)
+[Arma 3 Zeus Menu](Arma-3-Zeus-Menu.md)
 
-[Client options menu](https://github.com/endigma-4426/a3debug/wiki/Client-options-menu)
+[Client options menu](Client-options-menu.md)
 
-[Curator Creator](https://github.com/endigma-4426/a3debug/wiki/Curator-Creator)
+[Curator Creator](Curator-Creator.md)
 
-[Vehicle Reskins](https://github.com/endigma-4426/a3debug/wiki/Vehicle-Reskins-and-Flags)
+[Vehicle Reskins](Vehicle-Reskins-and-Flags.md)
 
-[Equipment](https://github.com/endigma-4426/a3debug/wiki/Equipment)
+[Equipment](Equipment.md)
 
-[Weapons Index](https://github.com/endigma-4426/a3debug/wiki/Weapons)
+[Weapons Index](Weapons.md)
 
-[Custom Vehicles](https://github.com/endigma-4426/a3debug/wiki/Custom-Vehicles)
+[Custom Vehicles](Custom-Vehicles.md)
 
 ## Fun
-[Enhanced Drones](https://github.com/endigma-4426/a3debug/wiki/Enhanced-Drones)
+[Enhanced Drones](Enhanced-Drones.md)
 
-[Enhanced Vehicles](https://github.com/endigma-4426/a3debug/wiki/Enhanced-Vehicles)
+[Enhanced Vehicles](Enhanced-Vehicles.md)
 
-[Peculiar Marshalls](https://github.com/endigma-4426/a3debug/wiki/Peculiar-Marshalls)
+[Peculiar Marshalls](Peculiar-Marshalls.md)
 
-[Random Grenades](https://github.com/endigma-4426/a3debug/wiki/Random-Grenades)
+[Random Grenades](Random-Grenades.md)
