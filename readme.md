@@ -1,5 +1,3 @@
-# Information is in the Wiki Tab.
-
 # Wiki
 [Home](https://github.com/endigma-4426/a3debug/wiki)
 
