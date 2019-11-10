@@ -1,0 +1,1 @@
+# Please message me on discord `@endigma#4426` if there are any problems with these scripts, or submit an issue.
