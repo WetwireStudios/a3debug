@@ -1,3 +1,4 @@
+[Home](readme.md)
 # This script turns player's grenades into random objects from a list
 ## Created by J [WoLF]
 ```sqf
