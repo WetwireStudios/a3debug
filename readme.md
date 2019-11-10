@@ -1,7 +1,7 @@
 # Wiki
 [Home](readme.md)
 
-[Links](links.md)
+[Links](Links.md)
 
 [Credits](credits.md)
 
