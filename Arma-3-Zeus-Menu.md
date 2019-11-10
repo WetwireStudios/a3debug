@@ -1,3 +1,4 @@
+[Home](readme.md)
 ```sqf
 fnc_createSelectionMenu = {
 	sleep 3;
