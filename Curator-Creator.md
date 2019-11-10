@@ -1,3 +1,4 @@
+[Home](readme.md)
 ## This script opens a UI prompting to assign a curator.
 ### Created by J [WoLF] and M9-SD.
 ```sqf
