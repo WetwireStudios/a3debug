@@ -10,7 +10,7 @@
 
 ## Utility
 
-[Basic Scripts](https://github.com/endigma-4426/a3debug/wiki/Basic-Scripts)
+[Basic Scripts](Basic-Scripts.md)
 
 [Arma 3 Zeus Menu](https://github.com/endigma-4426/a3debug/wiki/Arma-3-Zeus-Menu)
 
