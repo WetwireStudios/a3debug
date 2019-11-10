@@ -1,3 +1,4 @@
+[Home](readme.md)
 # Table of Contents
 - [Preface](#weapons)
     + [Syntax](#syntax-)
