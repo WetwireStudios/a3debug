@@ -15,7 +15,8 @@ This is the way I (endigma) went about configuring it when I first joined up and
 - SR CAS: `410` (SR CH1) (CAPS)
 - LR CAS: `53.2` (LR CH1) (T)
 
-## Binds (Controls -> Configure Addons -> TFAR in dropdown)
+## Binds 
+(Controls -> Configure Addons -> TFAR in dropdown)
 - **LR TRANSMIT** - T
 - **LR TRANSMIT ADDITIONAL** - Y
 - **SR TRANSMIT** - Caps Lock
