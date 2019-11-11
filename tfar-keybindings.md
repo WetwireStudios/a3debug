@@ -1,4 +1,4 @@
-# TFAR KEYBINDINGS GUIDE
+# Task Force Arrowhead Radio Keybindings Guide
 
 This is the way I (endigma) went about configuring it when I first joined up and set them up. Feel free to customize.
 
